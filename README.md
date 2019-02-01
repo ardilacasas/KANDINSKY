@@ -1,2 +1,2 @@
-# KANDINSKY
-TRABAJO COLOR Y FORMA
+# Diseño en medios interactivos
+PAULA ANDREA ARDILA C.
