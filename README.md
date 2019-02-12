@@ -5,5 +5,6 @@ PAULA ANDREA ARDILA C.
 [codigo](https://github.com/ardilacasas/Paula-Ardila/blob/master/01/sketch.js)
 2. [02](https://ardilacasas.github.io/Paula-Ardila/02/) /
 [codigo](https://github.com/ardilacasas/Paula-Ardila/blob/master/02/sketch.js)
-3.[03] (https://ardilacasas.github.io/Paula-Ardila/03/) /
+
+3. [03](https://ardilacasas.github.io/Paula-Ardila/03/) /
 [codigo](https://github.com/ardilacasas/Paula-Ardila/blob/master/03/sketch.js)
